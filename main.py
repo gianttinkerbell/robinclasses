@@ -84,3 +84,5 @@ f.write(fuel_table)
 f.close()
 
 print('status')
+
+print('status 2')
