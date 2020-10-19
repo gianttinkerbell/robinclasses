@@ -82,3 +82,5 @@ fuel_table = f'''
 f = open('table.html', 'w')
 f.write(fuel_table)
 f.close()
+
+print('status')
